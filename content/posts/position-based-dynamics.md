@@ -30,16 +30,12 @@ PBD is perfectly suited for this type of simulation. Imagine one particle pinned
 
 Here’s an example of PBD in action:
 
+
 <div class="center">
-    <img src="https://raw.githubusercontent.com/MehrdadDw/position-_based_dynamics/main/simulation.gif" alt="PBD Simulation of Particles Connected by a String">
+    <img src="https://github.com/MehrdadDw/myblog/blob/main/static/images/simulation.gif?raw=true" alt="PBD Simulation of Particles Connected by a String">
 </div>
 
-{{< figure src="/images/pbd-correction.jpg" alt="PBD Correction" class="img-responsive" >}}
-<div class="center">
-    <img src="https://github.com/MehrdadDw/myblog/blob/main/static/images/simulation.gif" alt="PBD Simulation of Particles Connected by a String">
-</div>
-
-{{< figure src="https://github.com/MehrdadDw/myblog/blob/main/static/images/simulation.gif" alt="PBD Correction" class="img-responsive" >}}
+{{< figure src="https://github.com/MehrdadDw/myblog/blob/main/static/images/pbd-correction.jpg?raw=tru?raw=true" alt="PBD Correction" class="img-responsive" >}}
 
 ## Question
 
