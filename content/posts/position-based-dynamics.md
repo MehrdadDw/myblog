@@ -5,15 +5,15 @@ draft = false
 +++
 
 <style type="text/css">
-   {
-    text-align: center;
-}
+    .center {
+        text-align: center;
+    }
 
-.center img {
-    display: block;
-    margin: 0 auto;
-    width: 80%;
-}
+    .center img {
+        display: block;
+        margin: 0 auto;
+        width: 80%;
+    }
 </style>
 
 ## Definition
