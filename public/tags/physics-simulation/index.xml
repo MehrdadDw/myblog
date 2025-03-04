@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Void Visions</title>
-    <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/posts/</link>
-    <description>Recent content in Posts on Void Visions</description>
+    <title>Physics Simulation on Void Visions</title>
+    <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/physics-simulation/</link>
+    <description>Recent content in Physics Simulation on Void Visions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Mar 2025 04:09:43 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/physics-simulation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Position Based Dynamics</title>
       <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/posts/position-based-dynamics/</link>

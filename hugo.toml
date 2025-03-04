@@ -1,8 +1,7 @@
-baseURL = "https://mehrdaddw.github.io/myblog/"  # Adjust for your repo
+baseURL = "https://mehrdaddw.github.io/myblog/https://mehrdaddw.github.io/myblog/"  # Adjust for your repo
 languageCode = "en-us"
-title = "My Blog"
+title = "Void Visions"
 theme = "paper"
 
 [params]
   color = "linen"  # Optional: theme style
-  github = "MehrdadDw"  # Optional: social link

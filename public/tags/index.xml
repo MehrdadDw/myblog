@@ -1,11 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My Blog</title>
-    <link>http://localhost:1313/myblog/tags/</link>
-    <description>Recent content in Tags on My Blog</description>
+    <title>Tags on Void Visions</title>
+    <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/</link>
+    <description>Recent content in Tags on Void Visions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Mar 2025 04:09:43 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Computer Graphics</title>
+      <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/computer-graphics/</link>
+      <pubDate>Tue, 04 Mar 2025 04:09:43 -0700</pubDate>
+      <guid>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/computer-graphics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Constraint Based Graphics</title>
+      <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/constraint-based-graphics/</link>
+      <pubDate>Tue, 04 Mar 2025 04:09:43 -0700</pubDate>
+      <guid>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/constraint-based-graphics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Physics Simulation</title>
+      <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/physics-simulation/</link>
+      <pubDate>Tue, 04 Mar 2025 04:09:43 -0700</pubDate>
+      <guid>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/tags/physics-simulation/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
