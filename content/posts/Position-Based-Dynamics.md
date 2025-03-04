@@ -2,9 +2,6 @@
 title = "Position Based Dynamics"
 date = "2025-03-04T04:09:43-07:00"
 draft = false
-categories = ["computer graphics", "position based dynamics"]
-tags = ["Physics Simulation", "Computer Graphics", "Constraint Based Graphics"]
-mermaid = true
 +++
 
 <style type="text/css">
