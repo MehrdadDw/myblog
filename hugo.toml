@@ -1,0 +1,8 @@
+baseURL = "https://mehrdaddw.github.io/myblog/"  # Adjust for your repo
+languageCode = "en-us"
+title = "My Blog"
+theme = "paper"
+
+[params]
+  color = "linen"  # Optional: theme style
+  github = "MehrdadDw"  # Optional: social link
