@@ -1,19 +1,7 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Void Visions</title>
-    <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/</link>
-    <description>Recent content on Void Visions</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 04 Mar 2025 04:09:43 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Position Based Dynamics</title>
-      <link>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/posts/position-based-dynamics/</link>
-      <pubDate>Tue, 04 Mar 2025 04:09:43 -0700</pubDate>
-      <guid>http://localhost:1313/myblog/https://mehrdaddw.github.io/myblog/posts/position-based-dynamics/</guid>
-      <description>&lt;!-- raw HTML omitted --&gt;&#xA;&lt;!-- raw HTML omitted --&gt;&#xA;&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Position-Based Dynamics (PBD) doesn’t rely on Newton’s laws of physics. Instead, it adjusts the positions of objects to satisfy rules (constraints)—like preventing them from overlapping or stretching too much. It’s simple, fast, and ideal for simulating cloth, soft bodies, or fluids, where stability matters more than exact physics.&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;h2 id=&#34;example-strings-connecting-particles&#34;&gt;Example: Strings Connecting Particles&lt;/h2&gt;&#xA;&lt;p&gt;PBD is perfectly suited for this type of simulation. Imagine one particle pinned in place and a second particle hanging by a string. PBD keeps the distance between the two particles constant by making small corrections over multiple steps. If the connection stretches beyond its initial length, PBD shortens it by moving the hanging particle slightly toward the pinned one. The vertical movement of the particle is determined by calculating its velocity over time. Then, PBD takes over, adjusting its position to maintain the correct distance from the pinned particle.&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Void Visions</title><link>https://mehrdaddw.github.io/myblog/https://mehrdaddw.github.io/myblog/</link><description>Recent content on Void Visions</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 04 Mar 2025 04:09:43 -0700</lastBuildDate><atom:link href="https://mehrdaddw.github.io/myblog/https://mehrdaddw.github.io/myblog/index.xml" rel="self" type="application/rss+xml"/><item><title>Position Based Dynamics</title><link>https://mehrdaddw.github.io/myblog/https://mehrdaddw.github.io/myblog/posts/xx/</link><pubDate>Tue, 04 Mar 2025 04:09:43 -0700</pubDate><guid>https://mehrdaddw.github.io/myblog/https://mehrdaddw.github.io/myblog/posts/xx/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;!-- raw HTML omitted -->
+&lt;h2 id="definition">Definition&lt;/h2>
+&lt;blockquote>
+&lt;p>Position-Based Dynamics (PBD) doesn’t rely on Newton’s laws of physics. Instead, it adjusts the positions of objects to satisfy rules (constraints)—like preventing them from overlapping or stretching too much. It’s simple, fast, and ideal for simulating cloth, soft bodies, or fluids, where stability matters more than exact physics.&lt;/p>&lt;/blockquote>
+&lt;h2 id="example-strings-connecting-particles">Example: Strings Connecting Particles&lt;/h2>
+&lt;p>PBD is perfectly suited for this type of simulation. Imagine one particle pinned in place and a second particle hanging by a string. PBD keeps the distance between the two particles constant by making small corrections over multiple steps. If the connection stretches beyond its initial length, PBD shortens it by moving the hanging particle slightly toward the pinned one. The vertical movement of the particle is determined by calculating its velocity over time. Then, PBD takes over, adjusting its position to maintain the correct distance from the pinned particle.&lt;/p></description></item></channel></rss>
