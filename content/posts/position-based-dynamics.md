@@ -36,10 +36,10 @@ Here’s an example of PBD in action:
 
 {{< figure src="/images/pbd-correction.jpg" alt="PBD Correction" class="img-responsive" >}}
 <div class="center">
-    <img src="/images/simulation.gif" alt="PBD Simulation of Particles Connected by a String">
+    <img src="https://github.com/MehrdadDw/myblog/blob/main/static/images/simulation.gif" alt="PBD Simulation of Particles Connected by a String">
 </div>
 
-{{< figure src="/images/simulation.gif" alt="PBD Correction" class="img-responsive" >}}
+{{< figure src="https://github.com/MehrdadDw/myblog/blob/main/static/images/simulation.gif" alt="PBD Correction" class="img-responsive" >}}
 
 ## Question
 
